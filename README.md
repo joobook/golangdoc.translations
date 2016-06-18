@@ -1,6 +1,5 @@
 # Golangdoc 翻译文件
 
-
 ## 配置环境
 
 先安装 [Golangdoc](https://github.com/golang-china/golangdoc) (需要安装`git`工具):
