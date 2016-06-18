@@ -2,6 +2,7 @@
 
 ## 配置环境
 
+
 先安装 [Golangdoc](https://github.com/golang-china/golangdoc) (需要安装`git`工具):
 
 	go get github.com/golang-china/golangdoc
@@ -156,7 +157,7 @@ Tags: cgo, technical
 在开头添加一个空的章节(`*`后面至少要有一个空白, **重要!!**):
 
 ```
-* 
+*
 ```
 
 然后将英文原文用 `.html _tr/div_begin_en.html` 和 `.html _tr/div_end.html` 包括:
@@ -191,7 +192,7 @@ Tags: cgo, technical
 
 Andrew Gerrand
 
-* 
+*
 
 .html _tr/div_begin_en.html
 
